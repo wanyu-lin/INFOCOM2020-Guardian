@@ -1,5 +1,5 @@
 # This repo covers the implementation for our paper Guardian.
-Wanyu Lin, Zhaolin Gao and Baochun Li, "[Guardian: Evaluating Trust in Online Social Networks with Graph Convolutional Networks](https://wanyu-lin.github.io/assets/publications/wlin-infocom20.pdf)," IEEE INFOCOM 2020 - IEEE Conference on Computer Communications, 2020, pp. 914-923, doi: 10.1109/INFOCOM41043.2020.9155370.
+Wanyu Lin, Zhaolin Gao and Baochun Li, "[Guardian: Evaluating Trust in Online Social Networks with Graph Convolutional Networks](https://wanyu-lin.github.io/assets/publications/wlin-infocom20.pdf)," in the Proceedings of IEEE INFOCOM, Toronto, Canada, July 6-9, 2020.
 
 ## Download code
 ```sh  
@@ -25,7 +25,7 @@ If you make advantage in your research, please cite the following in your manusc
 ```
 @INPROCEEDINGS{9155370,
   author={Lin, Wanyu and Gao, Zhaolin and Li, Baochun},
-  booktitle={IEEE INFOCOM 2020 - IEEE Conference on Computer Communications}, 
+  booktitle={in the Proceedings of IEEE INFOCOM}, 
   title={Guardian: Evaluating Trust in Online Social Networks with Graph Convolutional Networks}, 
   year={2020},
   doi={10.1109/INFOCOM41043.2020.9155370}}
