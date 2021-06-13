@@ -1,0 +1,8 @@
+pgp avg: 16.758595, max: 1925.000000, min: 1.000000, std: 46.041603
+pgp in avg: 8.379298, max: 780.000000, min: 0.000000, std: 23.866607
+pgp out avg: 8.379298, max: 1264.000000, min: 0.000000, std: 24.098549
+pgp data distrbution: 95980 22178 715 198208
+adv avg: 20.593182, max: 969.000000, min: 1.000000, std: 40.712792
+adv in avg: 10.296591, max: 765.000000, min: 0.000000, std: 23.602210
+adv out avg: 10.296591, max: 802.000000, min: 0.000000, std: 24.031866
+adv data distribution: 17640 22326 9840 4576
