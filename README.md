@@ -1,7 +1,7 @@
 # This repo covers the implementation for our paper Guardian.
 Wanyu Lin, Zhaolin Gao and Baochun Li, "[Guardian: Evaluating Trust in Online Social Networks with Graph Convolutional Networks](https://wanyu-lin.github.io/assets/publications/wlin-infocom20.pdf)," in the Proceedings of IEEE INFOCOM, Toronto, Canada, July 6-9, 2020.
 
-## Download code
+## Download
 ```sh  
 git clone 
 cd wanyu-infocom20-code  
@@ -15,12 +15,12 @@ The codebase is implemented in Python 3.6.7. You can install all the required pa
 	$ pip install -r requirements.txt
 
 
-## Running the code
+## Run the code
 ```sh
 cd /guardian_code/
 python main.py [--argment arg_val]
 ```
-## Reference
+## Cite
 If you make advantage in your research, please cite the following in your manuscript:
 ```
 @INPROCEEDINGS{9155370,
