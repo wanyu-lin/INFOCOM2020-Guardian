@@ -6,7 +6,7 @@ Wanyu Lin, Zhaolin Gao and Baochun Li, "[Guardian: Evaluating Trust in Online So
 git clone 
 cd wanyu-infocom20-code  
 ```
-This directory contains code necessary to run TrustGCN algorithm. It is especially useful for massive trust assessment in online social networks. 
+This directory contains code necessary to run Guardian algorithm. It is especially useful for massive trust assessment in online social networks. 
 
 
 ## Setup environment
